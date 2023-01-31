@@ -1,0 +1,92 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "«": -45,
+                " ": 4
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/torch.png",
+            "height": 20,
+            "ascent": -12,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:block/furnace_front.png",
+            "height": 20,
+            "ascent": -12,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_ingot.png",
+            "height": 20,
+            "ascent": -12,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/minecart.png",
+            "height": 20,
+            "ascent": -12,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:menu/bonus.png",
+            "height": 20,
+            "ascent": -12,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:menu/3pt.png",
+            "height": 20,
+            "ascent": -12,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:menu/5pt.png",
+            "height": 20,
+            "ascent": -12,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:menu/10pt.png",
+            "height": 20,
+            "ascent": -12,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:menu/15pt.png",
+            "height": 20,
+            "ascent": -12,
+            "chars": [
+                "\uE008"
+            ]
+        }
+    ]
+}

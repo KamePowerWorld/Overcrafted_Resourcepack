@@ -1,0 +1,20 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "«": -4,
+                " ": 4
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:bossbar/timeleft.png",
+            "height": 25,
+            "ascent": 20,
+            "chars": [
+                "\uE000"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/paper"
+    },
+    "overrides": [
+        {
+          "predicate": {
+            "custom_model_data": 1
+          },
+          "model": "overcrafted:dish"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 2
+          },
+          "model": "overcrafted:dish_dirty"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 3
+          },
+          "model": "overcrafted:dish_furnace"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 4
+          },
+          "model": "overcrafted:dish_iron_ingot"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 5
+          },
+          "model": "overcrafted:dish_minecart"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 6
+          },
+          "model": "overcrafted:dish_torch"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 7
+          },
+          "model": "overcrafted:burnt_charcoal"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 8
+          },
+          "model": "overcrafted:burnt_iron_ingot"
+        }
+    ]
+}

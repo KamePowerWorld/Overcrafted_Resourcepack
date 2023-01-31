@@ -1,0 +1,68 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_pigstep"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "overcrafted:dish_stacked_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "overcrafted:dish_stacked_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "overcrafted:dish_stacked_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "overcrafted:dish_stacked_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "overcrafted:dish_stacked_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "overcrafted:dish_stacked_dirty_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "overcrafted:dish_stacked_dirty_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "overcrafted:dish_stacked_dirty_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "overcrafted:dish_stacked_dirty_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "overcrafted:dish_stacked_dirty_5"
+    }
+  ]
+}

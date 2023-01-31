@@ -1,0 +1,139 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "overcrafted:progressionbar/bar_0.png",
+            "height": 20,
+            "ascent": 12,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:progressionbar/bar_1.png",
+            "height": 20,
+            "ascent": 12,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:progressionbar/bar_2.png",
+            "height": 20,
+            "ascent": 12,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:progressionbar/bar_3.png",
+            "height": 20,
+            "ascent": 12,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:progressionbar/bar_4.png",
+            "height": 20,
+            "ascent": 12,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:progressionbar/bar_5.png",
+            "height": 20,
+            "ascent": 12,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:progressionbar/bar_6.png",
+            "height": 20,
+            "ascent": 12,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:progressionbar/bar_7.png",
+            "height": 20,
+            "ascent": 12,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:progressionbar/bar_8.png",
+            "height": 20,
+            "ascent": 12,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:progressionbar/bar_9.png",
+            "height": 20,
+            "ascent": 12,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:progressionbar/bar_10.png",
+            "height": 20,
+            "ascent": 12,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:progressionbar/bar_overheat1.png",
+            "height": 20,
+            "ascent": 12,
+            "chars": [
+                "\uE00A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:progressionbar/bar_overheat2.png",
+            "height": 20,
+            "ascent": 12,
+            "chars": [
+                "\uE00B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:progressionbar/bar_overheat3.png",
+            "height": 20,
+            "ascent": 12,
+            "chars": [
+                "\uE00C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "overcrafted:progressionbar/bar_overheat4.png",
+            "height": 20,
+            "ascent": 12,
+            "chars": [
+                "\uE00D"
+            ]
+        }
+    ]
+}
