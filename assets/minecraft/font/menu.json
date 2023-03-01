@@ -87,6 +87,42 @@
             "chars": [
                 "\uE008"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_sword.png",
+            "height": 20,
+            "ascent": -12,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/golden_apple.png",
+            "height": 20,
+            "ascent": -12,
+            "chars": [
+                "\uE00A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/apple.png",
+            "height": 20,
+            "ascent": -12,
+            "chars": [
+                "\uE00B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/nether_star.png",
+            "height": 20,
+            "ascent": -12,
+            "chars": [
+                "\uE00C"
+            ]
         }
     ]
 }

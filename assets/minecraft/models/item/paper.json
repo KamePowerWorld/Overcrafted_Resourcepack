@@ -51,6 +51,72 @@
             "custom_model_data": 8
           },
           "model": "overcrafted:burnt_iron_ingot"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 9
+          },
+          "model": "overcrafted:apple_and_gold"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 10
+          },
+          "model": "overcrafted:burnt_gold_ingot"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 11
+          },
+          "model": "overcrafted:burnt_nether_star"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 12
+          },
+          "model": "overcrafted:dish_apple"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 13
+          },
+          "model": "overcrafted:dish_golden_apple"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 14
+          },
+          "model": "overcrafted:dish_iron_sword"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 15
+          },
+          "model": "overcrafted:dish_nether_star"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 16
+          },
+          "model": "overcrafted:iron_and_stick"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 17
+          },
+          "model": "overcrafted:overenchanted_golden_apple"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 18
+          },
+          "model": "overcrafted:soul_sand_base"
+        },
+        {
+          "predicate": {
+            "custom_model_data": 19
+          },
+          "model": "overcrafted:wither"
         }
     ]
 }
